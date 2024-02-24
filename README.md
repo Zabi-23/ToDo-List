@@ -20,8 +20,8 @@ Det här projektet är en enkel att-göra-lista skriven i TypeScript. Den låter
 2. **Separation av ansvar**: Koden är uppdelad i olika funktioner, vilket gör den lättare att förstå och underhålla. Varje funktion utför en specifik uppgift, som att lägga till en ny todo, ta bort en todo eller visa todo-listan i DOM:en.
 
 3. **Användning av lokal lagring**: Genom att använda local storage kan användare behålla sina uppgifter även när de lämnar sidan och återvänder senare.
-4. 
-5. **Interaktivitet och responsivitet**: Genom att lägga till händelselyssnare för olika användarinteraktioner, som klick på knappar, ger koden en interaktiv och responsiv användarupplevelse. Användare får omedelbar återkoppling när de interagerar med todo-listan.
+ 
+4. **Interaktivitet och responsivitet**: Genom att lägga till händelselyssnare för olika användarinteraktioner, som klick på knappar, ger koden en interaktiv och responsiv användarupplevelse. Användare får omedelbar återkoppling när de interagerar med todo-listan.
 
 ### Brister
 
@@ -31,4 +31,4 @@ Det här projektet är en enkel att-göra-lista skriven i TypeScript. Den låter
 
 
 
-.
+
