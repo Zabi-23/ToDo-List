@@ -1,4 +1,4 @@
-## Att göra-lista i TypeScript
+## Todo-list i Typescript
 
 Det här projektet är en enkel att-göra-lista skriven i TypeScript. Den låter användare lägga till, ta bort, redigera och markera uppgifter som klara.
 
